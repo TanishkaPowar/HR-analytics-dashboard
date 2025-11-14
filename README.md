@@ -1,5 +1,6 @@
 # HR-analytics-dashboard
 HR Analytics Dashboard — tracks attrition, performance, salary bands, and tenure risks.
+
 ✅ Top 3 Insights From the HR Dashboard
 1️⃣ Attrition is highest among employees doing overtime & in higher salary bands
 
